@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=ExpedientePacientes
+Exec=EXPEDIENTE_PACIENTES
+Icon=agenda
+Categories=Office;
