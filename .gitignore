@@ -1,0 +1,37 @@
+# Build directories
+build/
+dist/
+
+# Qt Creator
+*.user
+*.user.*
+
+# Compiled object files
+*.o
+*.obj
+
+# MOC / UIC / RCC generated files
+moc_*
+ui_*
+qrc_*
+
+# Binaries
+*.exe
+*.out
+*.app
+*.AppImage
+
+# AppImage AppDir outputs
+AppRun
+.DirIcon
+lib/
+plugins/
+translations/
+appimagetool
+linuxdeployqt
+
+# Databases — no se versionan
+*.db
+
+# Backup files
+*~
